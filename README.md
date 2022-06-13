@@ -1,1 +1,1 @@
-# lLib desenvolvida no curso de Node da Alura
+# Lib desenvolvida no curso de Node da Alura
